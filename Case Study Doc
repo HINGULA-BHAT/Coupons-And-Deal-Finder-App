@@ -1,2 +1,24 @@
 # Coupons-And-Deal-Finder-App
 Case Study JFS
+Stakeholders:
+1)Founder/shareholders of the website
+2)Employees
+3)Users/Customers
+4)Service Providers
+
+Flow :
+->open the website
+->login/register
+->After login it will navigate to home page
+(home page contains some detailed information of the website,About us,Contact and some data about the deals and coupons)
+->Navigate to deals or coupons page
+->Select the coupons required or user can save them to use it later
+(when user clicks on show coupon code it will show the code and also navigates to required websites(paytm,Bookmyshow etc..))
+->Select the deals required
+(when user click on product it directly navigates to required websites(Myntra,Snapdeal etc..))
+
+Database:
+User details(email)
+Coupon(coupon name,coupon offer,coupon details,number of users used that coupon that day)
+Deals(product name,product offer,product price)
+https://github.com/HINGULA-BHAT/Coupons-And-Deal-Finder-App/tree/main
