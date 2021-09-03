@@ -1,10 +1,13 @@
 # Coupons-And-Deal-Finder-App
 Case Study JFS
+
+
 Stakeholders:
 1)Founder/shareholders of the website
 2)Employees
 3)Users/Customers
 4)Service Providers
+
 
 Flow :
 ->open the website
@@ -16,6 +19,31 @@ Flow :
 (when user clicks on show coupon code it will show the code and also navigates to required websites(paytm,Bookmyshow etc..))
 ->Select the deals required
 (when user click on product it directly navigates to required websites(Myntra,Snapdeal etc..))
+
+
+Microservices:-
+
+Admin-
+ 1) It will Manage Merchants and Users
+2)Manages News and About Us page
+
+Deals and Coupons 
+1) Diaplay Deals and Coupons of all Merchants
+
+Merchants
+1)Adds and manages Deals and Coupons
+2)Manages product and Order
+
+User
+1)Sign Up
+2)Login
+3)Use Coupns
+4)Manages Profile
+
+Authentication
+1)Login Validations
+
+
 
 Database:
 User details(email)
