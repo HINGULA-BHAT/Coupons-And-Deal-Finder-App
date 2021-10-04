@@ -1,0 +1,15 @@
+.nav-link {
+    color:#f1f7f7;
+    background-color: hsl(352, 67%, 45%);
+border-radius: 25px;
+border-style: solid;
+border-width: 2px;
+border-color: #f0ec7b;
+
+}
+.navlink:hover{
+    background-color: hsl(352, 49%, 50%);
+    transform: scale(105%);
+    
+
+}

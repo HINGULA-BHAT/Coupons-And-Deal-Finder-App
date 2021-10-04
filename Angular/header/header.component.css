@@ -1,0 +1,39 @@
+nav {
+    font-family: 'Kumbh Sans', sans-serif;
+    background: rgb(11, 211, 94);
+}
+
+.nav-link {
+    color:#f1f7f7;
+    background-color: hsl(352, 67%, 45%);
+border-radius: 25px;
+border-style: solid;
+border-width: 5px;
+border-color: #4caac7;
+}
+
+.navlink:hover{
+    background-color: hsl(352, 49%, 50%);
+    transform: scale(105%);
+    
+
+}
+@media (min-width:769px) {
+    .navnar-nav, .navbar-nav ul ul{
+        background: transparent;
+    }
+
+.nvbar-nav > li.nav-link{
+    
+    margin-right: 50px;
+    background-color:lightseagreen
+}
+.navbar-nav > li:last-child{
+    margin-right:0
+}
+}
+.nvbar-nav > li.nav-link{
+    border-style: solid;
+    border-width: 5px;
+    border-color: #5bc0de;
+}
